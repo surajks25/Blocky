@@ -1,0 +1,22 @@
+/* Full screen center */
+.hashing-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #000;  /* Pure black background */
+}
+
+/* Glassmorphism Card */
+.glass-card {
+  background: rgba(255, 255, 255, 0.08); /* Slight transparency */
+  border-radius: 20px;
+  padding: 30px;
+  width: 500px;
+  color: white;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 30px rgba(0, 229, 255, 0.3);
+  text-align: center;
+}

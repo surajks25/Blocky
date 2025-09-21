@@ -1,0 +1,25 @@
+#Navbar{
+    background: #000000;
+    color: #00e5ffde !important;
+    
+}
+.nav-link {
+  color: rgba(255, 255, 255, 0.898) !important;
+}
+
+.nav-link.blue {
+  color: #00e5ffde !important; 
+}
+
+#Navbar:hover{
+    background: #000000;
+    color: #00e5ff75 !important;
+    
+}
+.nav-link:hover {
+  color: rgba(255, 255, 255, 0.498) !important;
+}
+
+.nav-link.blue:hover {
+  color: #00e5ff74 !important; 
+}
